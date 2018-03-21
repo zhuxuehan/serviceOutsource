@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="oracle-web:war">
+    <output-path>$PROJECT_DIR$/oracle-web/target</output-path>
+    <root id="archive" name="oracle-web-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="oracle-web:war exploded" />
+    </root>
+  </artifact>
+</component>
