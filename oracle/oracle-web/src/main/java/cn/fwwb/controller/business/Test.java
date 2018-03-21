@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class Test {
 	@RequestMapping("/hello")
 	public String test() {
-		System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+		System.out.println("bbbbbbbbbbbbbbbbbbbbbbbbbbb");
 		return "/test.html";
 	}
 }
